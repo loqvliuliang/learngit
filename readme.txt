@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is a free software ...
 aaaa
 111111111
 Git tracks changes.
